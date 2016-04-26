@@ -25,4 +25,4 @@ Tools
 
 zip this extension:
 
-    zip ../taywa_filemetadata_ident_0.0.9.zip *
+    zip -r ../taywa_filemetadata_ident_0.0.11.zip *
