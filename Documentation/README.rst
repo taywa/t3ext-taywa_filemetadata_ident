@@ -23,6 +23,6 @@ sql::
 Tools
 ================================================
 
-zip this extension::
+zip this extension:
 
     zip ../taywa_filemetadata_ident_0.0.9.zip *
