@@ -4,7 +4,7 @@
 		<header/>
 		<body>
 			<trans-unit id="sys_file_metadata.ident">
-				<source>Identifier</source>
+				<source>Ident</source>
 			</trans-unit>
 		</body>
 	</file>
